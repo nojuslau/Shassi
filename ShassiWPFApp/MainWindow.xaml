@@ -1,0 +1,39 @@
+﻿<Window x:Class="ShassiWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShassiWPFApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid Name="HarnessCombinationDataGrid"
+               AutoGenerateColumns="False"
+               CanUserAddRows="False"
+               CanUserDeleteRows="False"
+               IsReadOnly="True"
+               HorizontalAlignment="Stretch"
+               VerticalAlignment="Stretch"
+               Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Harness 1" Binding="{Binding Harness1}" />
+                <DataGridTextColumn Header="Version 1" Binding="{Binding HarnessVersion1}" />
+                <DataGridTextColumn Header="Harness 2" Binding="{Binding Harness2}" />
+                <DataGridTextColumn Header="Version 2" Binding="{Binding HarnessVersion2}" />
+                <DataGridTextColumn Header="Housing" Binding="{Binding Housing}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsError}" Value="True">
+                                    <Setter Property="Foreground" Value="Red" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button Content="Generate Combinations" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10" Width="150" Click="OnGenerateCombinationsClick" />
+    </Grid>
+</Window>

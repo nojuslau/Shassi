@@ -1,7 +1,7 @@
 
 # ShassiWPF Project
 
-Project is based on given task: UÏduotis_nr1.
+Project is based on given task: [UÏduotis_nr1.pdf](https://github.com/user-attachments/files/16745436/UIduotis_nr1.pdf).
 
 First project Idea was based on clean architecture with custom data seeding, code first approach and TDD. Due to project scaling and requirement mismatch new project was created - ShassiWPF.
 
@@ -26,6 +26,3 @@ Old project URL: `https://github.com/nojuslau/Harness-WPF.git`
 
 # Results
 ![incorrect](https://github.com/user-attachments/assets/b67cddb6-a011-4d18-89ad-8fbc8e8a7d3c)
-
-# Task
-[UÏduotis_nr1.pdf](https://github.com/user-attachments/files/16745436/UIduotis_nr1.pdf)

@@ -25,4 +25,7 @@ Old project URL: `https://github.com/nojuslau/Harness-WPF.git`
     * `Host=localhost;Port=5432;Database=harness;Username=postgres;Password=admin;Include Error Detail=true`
 
 # Results
-![Test Screenshot](/incorrect.jpg?raw=true "incorrect result")
+![incorrect](https://github.com/user-attachments/assets/b67cddb6-a011-4d18-89ad-8fbc8e8a7d3c)
+
+# Task
+[UÏduotis_nr1.pdf](https://github.com/user-attachments/files/16745436/UIduotis_nr1.pdf)

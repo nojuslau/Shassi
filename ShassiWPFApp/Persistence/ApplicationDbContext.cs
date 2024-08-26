@@ -23,6 +23,6 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext
     }
 
     // NOTE: this override should not be required
-    //protected override void OnConfiguring(DbContextOptionsBuilder options)
-    //      => options.UseNpgsql("Host=localhost;Port=5432;Database=harness_db;Username=admin;Password=admin;Include Error Detail=true");
+    protected override void OnConfiguring(DbContextOptionsBuilder options)
+          => options.UseNpgsql("Host=localhost;Port=5432;Database=harness;Username=postgres;Password=admin;Include Error Detail=true");
 }

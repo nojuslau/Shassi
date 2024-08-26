@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\migrations\\20240825182918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\migrations\\20240825182918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\models\\harnesscombinationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\models\\harnesscombinationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\persistence\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\persistence\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\persistence\\configurations\\harnesswiresconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\persistence\\configurations\\harnesswiresconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\persistence\\configurations\\harnessdrawingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\persistence\\configurations\\harnessdrawingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,44 +15,56 @@
       "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\persistence\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\services\\harnessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\services\\harnessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\services\\iharnessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\services\\iharnessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\services\\iharnessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\services\\iharnessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\persistence\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\persistence\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\models\\harnesscombinationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\models\\harnesscombinationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\persistence\\configurations\\harnessdrawingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\persistence\\configurations\\harnessdrawingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\persistence\\configurations\\harnesswiresconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\persistence\\configurations\\harnesswiresconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\migrations\\20240825182918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\migrations\\20240825182918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\entities\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\entities\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\entities\\harnessdrawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\entities\\harnessdrawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\entities\\harnesswires.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\entities\\harnesswires.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\entities\\harnessdrawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\entities\\harnessdrawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|c:\\users\\afg\\desktop\\harnesses\\shassiwpfapp\\shassiwpfapp\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD4B895-C8C1-485B-8421-D4306E5DF532}|ShassiWPFApp\\ShassiWPFApp.csproj|solutionrelative:shassiwpfapp\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,111 +78,91 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ShassiWPFApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:48:16.132Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "ShassiWPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-26T06:52:02.002Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240825182918_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Migrations\\20240825182918_InitialCreate.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\Migrations\\20240825182918_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Migrations\\20240825182918_InitialCreate.cs",
-              "RelativeToolTip": "ShassiWPFApp\\Migrations\\20240825182918_InitialCreate.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:48:15.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\ApplicationDbContextFactory.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\Persistence\\ApplicationDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\ApplicationDbContextFactory.cs",
-              "RelativeToolTip": "ShassiWPFApp\\Persistence\\ApplicationDbContextFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:19:54.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ShassiWPFApp\\Persistence\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\ApplicationDbContext.cs",
               "RelativeToolTip": "ShassiWPFApp\\Persistence\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAA6AAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T18:19:52.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HarnessDrawingConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\Configurations\\HarnessDrawingConfiguration.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\Persistence\\Configurations\\HarnessDrawingConfiguration.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\Configurations\\HarnessDrawingConfiguration.cs",
-              "RelativeToolTip": "ShassiWPFApp\\Persistence\\Configurations\\HarnessDrawingConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\Persistence\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "ShassiWPFApp\\Persistence\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:19:35.425Z",
+              "WhenOpened": "2024-08-25T18:19:54.583Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ShassiWPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:58:13.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHarnessService.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Services\\IHarnessService.cs",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\Services\\IHarnessService.cs",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Services\\IHarnessService.cs",
+              "RelativeToolTip": "ShassiWPFApp\\Services\\IHarnessService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:23:55.701Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HarnessWiresConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\Configurations\\HarnessWiresConfiguration.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\Persistence\\Configurations\\HarnessWiresConfiguration.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\Configurations\\HarnessWiresConfiguration.cs",
-              "RelativeToolTip": "ShassiWPFApp\\Persistence\\Configurations\\HarnessWiresConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:19:39.742Z",
-              "EditorCaption": ""
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\App.xaml",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\App.xaml",
+              "RelativeToolTip": "ShassiWPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T19:04:36.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ModelBuilderExtensions.cs",
               "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\Extensions\\ModelBuilderExtensions.cs",
               "RelativeDocumentMoniker": "ShassiWPFApp\\Persistence\\Extensions\\ModelBuilderExtensions.cs",
               "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\Extensions\\ModelBuilderExtensions.cs",
               "RelativeToolTip": "ShassiWPFApp\\Persistence\\Extensions\\ModelBuilderExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:19:44.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T18:19:44.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HarnessCombinationResult.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Models\\HarnessCombinationResult.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\Models\\HarnessCombinationResult.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Models\\HarnessCombinationResult.cs",
-              "RelativeToolTip": "ShassiWPFApp\\Models\\HarnessCombinationResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:10:59.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "IApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\IApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ShassiWPFApp\\Persistence\\IApplicationDbContext.cs",
@@ -207,68 +175,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HarnessService.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Services\\HarnessService.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\Services\\HarnessService.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Services\\HarnessService.cs",
-              "RelativeToolTip": "ShassiWPFApp\\Services\\HarnessService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "DocumentIndex": 8,
+              "Title": "HarnessCombinationResult.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Models\\HarnessCombinationResult.cs",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\Models\\HarnessCombinationResult.cs",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Models\\HarnessCombinationResult.cs",
+              "RelativeToolTip": "ShassiWPFApp\\Models\\HarnessCombinationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:23:52.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T18:10:59.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HarnessDrawingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\Configurations\\HarnessDrawingConfiguration.cs",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\Persistence\\Configurations\\HarnessDrawingConfiguration.cs",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\Configurations\\HarnessDrawingConfiguration.cs",
+              "RelativeToolTip": "ShassiWPFApp\\Persistence\\Configurations\\HarnessDrawingConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:19:35.425Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IHarnessService.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Services\\IHarnessService.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\Services\\IHarnessService.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Services\\IHarnessService.cs",
-              "RelativeToolTip": "ShassiWPFApp\\Services\\IHarnessService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Title": "HarnessWiresConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\Configurations\\HarnessWiresConfiguration.cs",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\Persistence\\Configurations\\HarnessWiresConfiguration.cs",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Persistence\\Configurations\\HarnessWiresConfiguration.cs",
+              "RelativeToolTip": "ShassiWPFApp\\Persistence\\Configurations\\HarnessWiresConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:23:55.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T18:19:39.742Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\App.xaml.cs",
-              "RelativeToolTip": "ShassiWPFApp\\App.xaml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAApwB8AAAAfAAAA",
+              "Title": "20240825182918_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Migrations\\20240825182918_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\Migrations\\20240825182918_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Migrations\\20240825182918_InitialCreate.cs",
+              "RelativeToolTip": "ShassiWPFApp\\Migrations\\20240825182918_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:12:06.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T18:48:15.49Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\AssemblyInfo.cs",
-              "RelativeToolTip": "ShassiWPFApp\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\Constants.cs",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\Entities\\Constants.cs",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\Constants.cs",
+              "RelativeToolTip": "ShassiWPFApp\\Entities\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:29:24.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T18:08:58.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HarnessDrawing.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\HarnessDrawing.cs",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\Entities\\HarnessDrawing.cs",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\HarnessDrawing.cs",
+              "RelativeToolTip": "ShassiWPFApp\\Entities\\HarnessDrawing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:09:40.31Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ShassiWPFApp\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAewA8AAAAtAAAA",
+              "Title": "HarnessWires.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\HarnessWires.cs",
+              "RelativeDocumentMoniker": "ShassiWPFApp\\Entities\\HarnessWires.cs",
+              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\HarnessWires.cs",
+              "RelativeToolTip": "ShassiWPFApp\\Entities\\HarnessWires.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T17:58:13.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T18:10:29.409Z"
             },
             {
               "$type": "Document",
@@ -281,54 +268,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T18:08:38.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\MainWindow.xaml",
-              "RelativeToolTip": "ShassiWPFApp\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-25T17:58:13.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\Constants.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\Entities\\Constants.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\Constants.cs",
-              "RelativeToolTip": "ShassiWPFApp\\Entities\\Constants.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:08:58.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HarnessWires.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\HarnessWires.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\Entities\\HarnessWires.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\HarnessWires.cs",
-              "RelativeToolTip": "ShassiWPFApp\\Entities\\HarnessWires.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:10:29.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HarnessDrawing.cs",
-              "DocumentMoniker": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\HarnessDrawing.cs",
-              "RelativeDocumentMoniker": "ShassiWPFApp\\Entities\\HarnessDrawing.cs",
-              "ToolTip": "C:\\Users\\AFG\\Desktop\\harnesses\\ShassiWPFApp\\ShassiWPFApp\\Entities\\HarnessDrawing.cs",
-              "RelativeToolTip": "ShassiWPFApp\\Entities\\HarnessDrawing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:09:40.31Z"
             }
           ]
         }
